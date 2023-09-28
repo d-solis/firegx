@@ -6,11 +6,11 @@
 
 </h1> 
 
-<h2>
+<h3>
 
 Firegx is an opensource project that aims to give firefox operagx like features.
   
-</h2>
+</h3>
 
 
 ![image](https://raw.githubusercontent.com/d-solis/dotfiles/main/assets/cat.svg)
