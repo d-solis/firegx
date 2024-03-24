@@ -7,6 +7,8 @@
 </h1> 
 
 <h3>
+Been on a hiatus dunno if ill ever get back to this
+
 Firegx is an opensource project that aims to give firefox operagx like features.
 </h3>
 
